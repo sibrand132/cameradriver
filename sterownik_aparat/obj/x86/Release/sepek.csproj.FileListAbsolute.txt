@@ -1,0 +1,18 @@
+C:\Users\przemek\Desktop\sep\sepek\sepek\bin\Release\sepek.exe
+C:\Users\przemek\Desktop\sep\sepek\sepek\bin\Release\sepek.pdb
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\sepek.Form1.resources
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\sepek.Properties.Resources.resources
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\sepek.exe
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Release\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Release\sepek.exe
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Release\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\bin\Release\sepek.exe
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\bin\Release\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Release\sepek.Form1.resources
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Release\sepek.Properties.Resources.resources
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Release\sepek.csproj.GenerateResource.Cache
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Release\sepek.exe
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Release\sepek.pdb

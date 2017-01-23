@@ -1,0 +1,3 @@
+Warning: the JAVA_HOME environment variable is not defined
+If Jess fails to start, set this environment variable to
+point to your JDK installation directory, then try again.

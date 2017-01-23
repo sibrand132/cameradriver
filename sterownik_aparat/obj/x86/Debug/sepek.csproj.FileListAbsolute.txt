@@ -1,0 +1,45 @@
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\sepek.Form1.resources
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\sepek.Properties.Resources.resources
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\przemek\Desktop\sep\sepek\sepek\bin\Debug\sepek.exe
+C:\Users\przemek\Desktop\sep\sepek\sepek\bin\Debug\sepek.pdb
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\sepek.exe
+C:\Users\przemek\Desktop\sep\sepek\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.exe
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\bin\Debug\sepek.exe
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\bin\Debug\sepek.pdb
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.Form1.resources
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.Properties.Resources.resources
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.csproj.GenerateResource.Cache
+C:\Users\empek\Desktop\sepek - MSvisual\sepek\sepek\obj\x86\Debug\sepek.csprojResolveAssemblyReference.cache
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.exe
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\adi\adi\sepek\bin\Debug\sepek.exe
+C:\Users\empek\Desktop\adi\adi\sepek\bin\Debug\sepek.pdb
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.csprojResolveAssemblyReference.cache
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.Form1.resources
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.Properties.Resources.resources
+C:\Users\empek\Desktop\adi\adi\sepek\obj\x86\Debug\sepek.csproj.GenerateResource.Cache
+C:\Users\empek\Desktop\wykład\sterownik\sterownik\sepek\obj\x86\Debug\sepek.exe
+C:\Users\empek\Desktop\wykład\sterownik\sterownik\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\zima\sterownik\sterownik\sepek\obj\x86\Debug\sepek.exe
+C:\Users\empek\Desktop\zima\sterownik\sterownik\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.exe
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.csprojResolveAssemblyReference.cache
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.Form1.resources
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.Properties.Resources.resources
+C:\Users\empek\Desktop\sterownik\sepek\obj\x86\Debug\sepek.csproj.GenerateResource.Cache
+C:\Users\empek\Desktop\sterownik\sepek\bin\Debug\sepek.exe
+C:\Users\empek\Desktop\sterownik\sepek\bin\Debug\sepek.pdb
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.exe
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.pdb
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\bin\Debug\sepek.exe
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\bin\Debug\sepek.pdb
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.csprojResolveAssemblyReference.cache
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.Form1.resources
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.Properties.Resources.resources
+C:\Users\Sibrand\Desktop\rozmyta\sterownik\sepek\obj\x86\Debug\sepek.csproj.GenerateResource.Cache

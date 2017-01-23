@@ -1,0 +1,15 @@
+
+System ekspertowy - logika rozmyta 
+
+Sterownik rozmyty dla aparatu
+
+Jako wynik otrzymujemy parametry w jakich zostanie zrobione zdjecie 
+
+
+Dla natezenia swiatla = 8000 , glebi ostrosci = 1 oraz predkosci poruszania = 0
+
+Ustawiono nastepujace parametry:
+
+Czas otwarcia migawki = 0.0502 s
+Swiatloczulosc = 750.0 ISO
+Wielosc przyslony = f/6.37
